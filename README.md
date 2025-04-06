@@ -1,4 +1,3 @@
-
 # BITETIME
 
 **BITETIME** is a fun, interactive mobile application that suggests pixel-art-style meal options based on the time of day—breakfast, lunch, or dinner. It combines visually appealing animations and a dynamic user interface inspired by games like **Jetpack Joyride**. The app is designed to make meal planning easier, more enjoyable, and visually stunning.
